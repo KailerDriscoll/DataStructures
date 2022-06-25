@@ -1,0 +1,1 @@
+int addToArrayAsc(float sortedArray[], int numElements, float newValue);

@@ -1,0 +1,1 @@
+void findOddAndEvenNumbers(int* numbers, int*& odd, int*& even, int length, int& numOdd, int& numEven);

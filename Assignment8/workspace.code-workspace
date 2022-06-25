@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/Verilog"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
